@@ -5,6 +5,7 @@
 #include <iostream>
 #include <bitset>
 #include <bit>
+#include <string>
 
 namespace sim {
 
